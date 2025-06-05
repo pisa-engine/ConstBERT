@@ -76,7 +76,6 @@ Please cite the following paper if you use this code, or a modified version of i
   title={Efficient Constant-Space Multi-Vector Retrieval},
   author={MacAvaney, Sean and Mallia, Antonio and Tonellotto, Nicola},
   booktitle = {The 47th European Conference on Information Retrieval ({ECIR})},
-  publisher = {ACM},
   year={2025}
 }
 ```
